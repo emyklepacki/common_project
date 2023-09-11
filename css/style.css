@@ -51,3 +51,14 @@ ul
     display: inline-block;
     margin-left: 50px;
 }
+
+li
+{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+nav
+{
+    border: solid 1px #CC00AA;
+}
